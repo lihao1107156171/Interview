@@ -1,5 +1,9 @@
 package com.pattern01;
 
+/**
+ * 食物条目
+ *
+ */
 public interface Item {
 	public String name();
 	public Packing packing();
